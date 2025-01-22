@@ -1,0 +1,6 @@
+pay gemma2-9b-it broad time taken to annotate (seconds): 178.32
+pay llama-3.1-8b-instant broad time taken to annotate (seconds): 178.34
+pay mixtral-8x7b-32768 broad time taken to annotate (seconds): 182.43
+pay gemma2-9b-it precise time taken to annotate (seconds): 179.21
+pay llama-3.1-8b-instant precise time taken to annotate (seconds): 177.39
+pay mixtral-8x7b-32768 precise time taken to annotate (seconds): 180.35

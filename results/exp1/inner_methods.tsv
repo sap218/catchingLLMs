@@ -1,0 +1,25 @@
+topic	method1	method2	agreement	kappa
+advertisement	llama	mixtral	Strong	0.86
+advertisement	catch	gemma2	Strong	0.8
+advertisement	gemma2	llama	Moderate	0.74
+advertisement	gemma2	mixtral	Moderate	0.74
+advertisement	catch	mixtral	Moderate	0.68
+advertisement	catch	llama	Moderate	0.68
+audio	catch	gemma2	Almost perfect	0.92
+audio	catch	mixtral	Weak	0.54
+audio	gemma2	mixtral	Weak	0.5
+audio	catch	llama	None	0.0
+audio	llama	mixtral	None	0.0
+audio	gemma2	llama	None	0.0
+download	catch	gemma2	Almost perfect	0.92
+download	gemma2	mixtral	Moderate	0.69
+download	catch	mixtral	Weak	0.59
+download	catch	llama	Minimal	0.27
+download	llama	mixtral	Minimal	0.24
+download	gemma2	llama	Minimal	0.24
+update	gemma2	mixtral	Almost perfect	0.94
+update	catch	mixtral	Almost perfect	0.92
+update	catch	gemma2	Almost perfect	0.92
+update	gemma2	llama	Moderate	0.77
+update	llama	mixtral	Moderate	0.77
+update	catch	llama	Moderate	0.69

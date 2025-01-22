@@ -1,0 +1,5 @@
+Method	McNemar	P-value
+catch	0.0	2.384185791015625e-07
+gemma2	1.0	0.375
+llama	0.0	0.0009765625
+mixtral	3.0	0.09228515625

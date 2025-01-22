@@ -1,0 +1,10 @@
+index	0
+catch_broad	27.0
+catch_precise	4.0
+gemma2_broad	25.0
+gemma2_precise	22.0
+llama_broad	18.0
+llama_precise	7.0
+manual	22.0
+mixtral_broad	29.0
+mixtral_precise	22.0

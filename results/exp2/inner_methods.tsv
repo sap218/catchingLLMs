@@ -1,0 +1,7 @@
+method1	method2	agreement	kappa
+gemma2	mixtral	Moderate	0.63
+catch	llama	Moderate	0.62
+catch	gemma2	Weak	0.56
+gemma2	llama	Weak	0.54
+llama	mixtral	Weak	0.45
+catch	mixtral	Weak	0.45

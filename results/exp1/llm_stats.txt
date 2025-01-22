@@ -1,0 +1,12 @@
+advertisement gemma2-9b-it time taken to annotate (seconds): 173.88
+advertisement llama-3.1-8b-instant time taken to annotate (seconds): 177.63
+advertisement mixtral-8x7b-32768 time taken to annotate (seconds): 175.0
+audio gemma2-9b-it time taken to annotate (seconds): 174.35
+audio llama-3.1-8b-instant time taken to annotate (seconds): 178.48
+audio mixtral-8x7b-32768 time taken to annotate (seconds): 173.67
+download gemma2-9b-it time taken to annotate (seconds): 173.65
+download llama-3.1-8b-instant time taken to annotate (seconds): 177.32
+download mixtral-8x7b-32768 time taken to annotate (seconds): 173.46
+update gemma2-9b-it time taken to annotate (seconds): 173.45
+update llama-3.1-8b-instant time taken to annotate (seconds): 177.98
+update mixtral-8x7b-32768 time taken to annotate (seconds): 174.19

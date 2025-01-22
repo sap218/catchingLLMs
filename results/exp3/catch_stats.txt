@@ -1,0 +1,5 @@
+pay concepts count: 13
+pay post count: 100
+pay average word count: 26.54
+pay broad time taken to annotate (seconds): 0.65
+pay precise time taken to annotate (seconds): 0.59

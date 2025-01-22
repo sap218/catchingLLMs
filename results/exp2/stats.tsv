@@ -1,0 +1,5 @@
+Method	Accuracy	Kappa	Agreement	Correlation	T-statistic	P-value
+catch	0.79	0.69	Moderate	0.71	-2.94	0.004042813157882898
+gemma2	0.77	0.67	Moderate	0.68	-4.08	9.179016043878766e-05
+llama	0.8	0.69	Moderate	0.72	1.56	0.12261533333730727
+mixtral	0.75	0.63	Moderate	0.66	-4.98	2.722372692842042e-06

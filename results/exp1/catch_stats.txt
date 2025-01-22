@@ -1,0 +1,16 @@
+advertisement concepts count: 3
+advertisement post count: 100
+advertisement average word count: 26.54
+advertisement time taken to annotate (seconds): 0.91
+audio concepts count: 4
+audio post count: 100
+audio average word count: 26.54
+audio time taken to annotate (seconds): 0.84
+download concepts count: 2
+download post count: 100
+download average word count: 26.54
+download time taken to annotate (seconds): 0.84
+update concepts count: 5
+update post count: 100
+update average word count: 26.54
+update time taken to annotate (seconds): 0.84

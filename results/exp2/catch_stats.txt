@@ -1,0 +1,4 @@
+music concepts count: 4
+music post count: 100
+music average word count: 26.54
+music time taken to annotate (seconds): 0.94
